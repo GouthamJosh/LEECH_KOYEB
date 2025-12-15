@@ -1,4 +1,3 @@
-aiohttp[speedups]
 setuptools<81
 aiohttp
 aiofiles
